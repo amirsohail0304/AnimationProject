@@ -99,7 +99,7 @@ const App = () => {
           screenOptions={{
             headerShown: false
           }}
-          initialRouteName='CircleAnimation'
+          initialRouteName='PagerExample'
         >
           <Stack.Screen name="Filter" component={FilterScreen} />
           <Stack.Screen
